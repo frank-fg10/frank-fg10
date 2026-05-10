@@ -2,7 +2,7 @@
 Soy estudiante de 7mo ciclo de Ingeniería de Sistemas e Informática, apasionado por el desarrollo de software, las telecomunicaciones y la innovación tecnológica. Me caracterizo por ser una persona analítica, responsable y orientada a la resolución de problemas mediante soluciones tecnológicas eficientes. Tengo conocimientos en programación, bases de datos, desarrollo web y diseño de sistemas, además de un gran interés en áreas como redes y telecomunicaciones, inteligencia artificial, ciberseguridad y desarrollo de aplicaciones. Me gusta aprender constantemente, trabajar en equipo y participar en proyectos que contribuyan a la transformación digital y al avance de la tecnología.
 
 
-![Example Game](example.gif)
+![Example Game](example.gif) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frankv_18) 
