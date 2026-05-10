@@ -7,6 +7,9 @@ Soy estudiante de 7mo ciclo de Ingeniería de Sistemas e Informática, apasionad
 </a>
 </h3>
 
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frankv_18) 
 
