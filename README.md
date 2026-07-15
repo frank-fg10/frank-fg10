@@ -11,10 +11,12 @@
 
 Estudiante de 7mo ciclo de Ingeniería de Sistemas e Informática, con interés en desarrollo de software, telecomunicaciones e innovación tecnológica. Me caracterizo por ser analítico, responsable y orientado a resolver problemas con soluciones eficientes.
 
-- 🔭 Actualmente trabajando en proyectos de bases de datos, machine learning y desarrollo web
-- 🌱 Profundizando en redes, inteligencia artificial y ciberseguridad
-- 💬 Pregúntame sobre programación, bases de datos o diseño de sistemas
-- ⚡ Me gusta aprender constantemente y trabajar en equipo
+<img
+  width="55%"
+  align="right"
+  alt="Github"
+  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
+/>
 
 ## 🌐 Redes
 
